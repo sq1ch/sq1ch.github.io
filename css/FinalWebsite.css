@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+BODY {
+    background-color: lightblue;
+    
+}
+ 
+
+ p{
+    font-family: 'Indie Flower', cursive;
+}
+
+a {font-family: 'Satisfy', cursive;
+    
+}
+
+
+p {font-size: 18px;}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
+
+
+
